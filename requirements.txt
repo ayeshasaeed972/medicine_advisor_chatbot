@@ -5,5 +5,7 @@ numpy
 matplotlib
 scikit-learn
 geopy
+pyttsx3
+
 
 
